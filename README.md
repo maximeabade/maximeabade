@@ -1,6 +1,11 @@
-# 👋 Hi, I am **Maxime Abade**
+# Hello there, I am **Maxime Abade**
 
-## I'm currently an engineering student in IT science (CY-Tech school)
+<p align="center"><img src="hello-there-kenobi.gif"></p>
+
+
+
+
+## I am an apprentice engineer, working in A.CO.R Pau, France, as student temp🤓
 
 - 🧑🏻‍💻 Always searching a way to improve my coding skills. As far as I've gone, it does not seem to be into coffee, but who knows? ☕️
 - ☎️ Phone 06 95 37 75 51
