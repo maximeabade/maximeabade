@@ -8,7 +8,9 @@
 ## I am an apprentice engineer, working in A.CO.R Pau, France, as student temp🤓
 
 - 🧑🏻‍💻 Always searching a way to improve my coding skills. As far as I've gone, it does not seem to be into coffee, but who knows? ☕️
-- ☎️ Phone `<a href="tel:+33695377551"> 06 95 37 75 51 </a>`
+- `<p>`
+- ☎️ Phone `<a href="tel:+33695377551"> 06 95 37 75 51 </a> `
+- `</p>`
 - 🌐 Mail maximeabade@gmail.com
 
 <p align="center">
