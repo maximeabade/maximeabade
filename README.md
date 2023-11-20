@@ -5,7 +5,7 @@
 
 
 
-## I am an apprentice engineer, working in A.CO.R Pau, France, as student temp🤓
+## I am an experienced Data Scientist AI specialized, open to work🤓
 
 - 🧑🏻‍💻 Always searching a way to improve my coding skills. As far as I've gone, it does not seem to be into coffee, but who knows? ☕️
 - ☎️ Phone +33 6 95 37 75 51
