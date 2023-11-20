@@ -11,6 +11,8 @@
 - ☎️ Phone +33 6 95 37 75 51
 - 🌐 Mail maximeabade@gmail.com
 
+I have Worked for Safran(Internship, NodeJS, Data Science Introduction, 2022), ACOR PAU(FullStack Developer, Data Scientis, AI&ML, 2022-2023), The Coca-Cola Company(IT Projects Manager, NodeJS, React, SYmfony, Agile/SCRUM, 2023) as FullStack Dev, Data Analyst, and team manager
+
 <p align="center">
     <img align="center"  src="https://github-readme-stats.vercel.app/api/?username=maximeabade&show_icons=true&count_private=true&title_color=fff&icon_color=96770e&text_color=9f9f9f&bg_color=181818&border_color=96770e&hide=contribs,issues" alt="Maxime Abade Stats" />
 </p>
