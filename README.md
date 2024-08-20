@@ -5,7 +5,7 @@
 
 
 
-## I am an experienced AI Software Developer, and now working in Exakis Nelite, Microsoft Gold Partner.
+## Experienced AI Software Developer, and now working in Exakis Nelite, Microsoft Gold Partner.
 
 - 🧑🏻‍💻 Always searching a way to improve my coding skills. As far as I've gone, it does not seem to be into coffee, but who knows? ☕️
 - 🌐 Mail maximeabade@gmail.com
