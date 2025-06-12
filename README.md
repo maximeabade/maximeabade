@@ -1,4 +1,4 @@
-# Hello there, I am **__max_Te_Hax__**
+# Hello there, I am __max_Te_Hax__
 
 <p align="center"><img src="hello-there-kenobi.gif"></p>
 
